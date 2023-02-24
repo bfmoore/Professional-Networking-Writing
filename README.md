@@ -52,7 +52,7 @@ If an error occurs when entering the mathmetical express such as:
    An error has occured, please try again!
    
                     
-                    Conclusions
+                    Conclusion
                     
    I learned how to write pseudocode for a mimics calculator. This allowed me to write a program in C++. 
    This program can be improved by adding algebra calculation to this features.
